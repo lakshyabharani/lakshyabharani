@@ -43,6 +43,13 @@ Full Stack Developer specializing in backend systems and data integrations. I bu
 
 ## 📌 Featured Projects
 
+### 🏥 [Epic FHIR Patient API](https://github.com/lakshyabharani/epic-fhir-patient-api)
+A NestJS backend that authenticates with Epic's FHIR R4 sandbox via OAuth 2.0 + PKCE and queries patient health data — demographics, vital signs, conditions, encounters, and allergies. Built to demonstrate healthcare IT interoperability skills directly relevant to EHR integration work.
+
+`NestJS` `TypeScript` `Epic FHIR R4` `OAuth 2.0` `PKCE` `Healthcare Interoperability`
+
+---
+
 ### 🗂️ [Task Manager API](https://github.com/lakshyabharani/task-manager-api)
 Production-ready REST API with JWT authentication, role-based access control, and full task CRUD. Built with NestJS, PostgreSQL, and Docker — mirrors real backend work I do daily.
 
