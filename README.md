@@ -81,7 +81,7 @@ Applied generative AI alongside Python and Excel for advanced statistical analys
 | Elixir Softlab | Software Developer Intern | Jun 2021 – Aug 2021 |
 
 **Key wins:**
-- 🚀 Migrated ~1M records with 70% reduction in data errors
+- 🚀 Migrated ~10M records with 70% reduction in data errors
 - ⚡ Improved reporting efficiency by 50% through SQL optimization
 - 🤖 Automated workflows with n8n, cutting manual effort by 30%
 - 🔧 Maintained 99% application uptime through proactive debugging
