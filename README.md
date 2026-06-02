@@ -2,7 +2,7 @@
 
 Full Stack Developer specializing in backend systems and data integrations. I build APIs that hold up in production, automate workflows, and make complex systems talk to each other reliably.
 
-- 🔭 Currently at **Cardinality.ai** — building RESTful APIs with NestJS, migrating ~1M records, and integrating third-party services
+- 🔭 Currently at **Cardinality.ai** — building RESTful APIs with NestJS, migrating ~10M records, and integrating third-party services
 - 🛠️ Core stack: **TypeScript · Node.js · NestJS · PostgreSQL · AWS**
 - ☁️ **AWS Certified Developer – Associate**
 - 🎓 M.S. Information Systems — Cleveland State University '24
@@ -79,6 +79,7 @@ Applied generative AI alongside Python and Excel for advanced statistical analys
 | Cardinality.ai | Software Developer Intern | Feb 2025 – Nov 2025 |
 | Particle Black | Junior Software Developer | Sep 2021 – May 2023 |
 | Elixir Softlab | Software Developer Intern | Jun 2021 – Aug 2021 |
+| Elixir Softlab | Product Development Intern | Jun 2019 – Jul 2019 |
 
 **Key wins:**
 - 🚀 Migrated ~10M records with 70% reduction in data errors
