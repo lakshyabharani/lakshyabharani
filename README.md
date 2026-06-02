@@ -57,10 +57,10 @@ Production-ready REST API with JWT authentication, role-based access control, an
 
 ---
 
-### 🔐 Human Signature Verification System
-ML-based fraud detection system that verifies handwritten signatures in real time using a CNN trained with TensorFlow and Keras. Led team development from model training through Django backend deployment.
+### 🔐 [Signature Verification System](https://github.com/lakshyabharani/signature-verification)
+CNN-based fraud detection system that classifies handwritten signatures as genuine or forged. Trained on the CEDAR dataset (2,640 images) achieving **100% test accuracy**. Includes a command-line inference script to predict any signature image in seconds.
 
-`Python` `TensorFlow` `Keras` `Django`
+`Python` `TensorFlow` `Keras` `OpenCV` `scikit-learn` `CNN`
 
 ---
 
