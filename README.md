@@ -64,6 +64,17 @@ CNN-based fraud detection system that classifies handwritten signatures as genui
 
 ---
 
+### 🏨 [Resort Hotel Booking & Management System](https://github.com/lakshyabharani/resort-hotel-management)
+Full-stack hotel operations platform covering reservations, room inventory, guest profiles, staff management, dining, amenities, and billing. Originally built as a university database project (C# + MS Access); rebuilt from scratch as a modern web application to demonstrate end-to-end database design and API development skills.
+
+Designed a normalized PostgreSQL schema across 8 related tables with foreign keys, generated columns, and cascading business logic (e.g. room availability auto-updates on reservation). REST API serves a React dashboard with live stats and revenue charts.
+
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `JWT` `Docker` `Tailwind CSS`
+
+---
+
+---
+
 ### 📊 AI-Driven Business Analytics & Visualization
 Applied generative AI alongside Python and Excel for advanced statistical analysis — ANOVA, financial modeling, classification matrices, entropy. Built interactive Tableau dashboards using LOD calculations and dynamic parameters.
 
