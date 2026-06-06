@@ -57,6 +57,13 @@ Production-ready REST API with JWT authentication, role-based access control, an
 
 ---
 
+### 🌤️ [Weather Pipeline](https://github.com/lakshyabharani/weather-pipeline)
+Automated data pipeline that fetches real-time hourly weather data for 14 cities across 5 regions worldwide. Stores snapshots in PostgreSQL, exposes a REST API, and visualizes temperature, humidity and wind trends on a live dashboard. Cron-scheduled with manual trigger support — no API key needed.
+
+`NestJS` `TypeScript` `PostgreSQL` `Docker` `Chart.js` `Cron` `Open-Meteo API`
+
+---
+
 ### 🔐 [Signature Verification System](https://github.com/lakshyabharani/signature-verification)
 CNN-based fraud detection system that classifies handwritten signatures as genuine or forged. Trained on the CEDAR dataset (2,640 images) achieving **100% test accuracy**. Includes a command-line inference script to predict any signature image in seconds.
 
